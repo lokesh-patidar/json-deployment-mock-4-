@@ -276,3 +276,5 @@ And since I don’t have `.env` variables and I want to auto-deploy my changes o
 1. Once deployment is successful. If you go check the same in browser. I am able to access data as expected
 
 ![Screenshot 2022-09-27 at 12.58.46 PM.png](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/fdd5f997-9b90-4485-80f3-8ec03311c466/Screenshot_2022-09-27_at_12.58.46_PM.png)
+
+## Deployed Link:- `https://json-mock-4.onrender.com/users/`
